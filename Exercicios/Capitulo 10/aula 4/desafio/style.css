@@ -1,0 +1,44 @@
+.fotoperfil {
+    border-radius: 300px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.descricao {
+    max-width: 650px;
+    margin: auto;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    background-color: #e4e3cd;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #ecebe6;
+    padding: 20px;
+    border-radius: 20px;
+    border: #333333 2px solid;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #333333;
+}
+
+.redes-sociais {
+    list-style-type: disc;
+    padding: 0;
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+.item {
+    margin: 15px 0;
+    font-size: 18px;
+}
